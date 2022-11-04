@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IronSyd
+- 👋 Hi, my name is Michael Alkali
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning web2/frontend developement (HTML, CSS, JS/React) enroute web3
 - 💞️ I’m open to internship and collaboration on web development
