@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IronSyd
-- 👀 I’m interested in Solidity
+- 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning web2/frontend developement (HTML, CSS, JS/React) enroute web3
-- 💞️ I’m looking to collaborate on web2 and web3
+- 💞️ I’m open to internship and collaboration on web development
 - 📫 I can be reached on twitter @michael_alkali
 
 <!---
