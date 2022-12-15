@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Michael Alkali
 - 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning web2/frontend developement (HTML, CSS, JS/React) enroute web3
+- 🌱 I’m aspiring to be a full stack blockchain development
 - 💞️ I’m open to internship and collaboration on web development
 - 📫 I can be reached on twitter @michael_alkali
 
