@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Michael Alkali
-- 👀 I’m interested in Blockchain Development
+- 👀 I’m interested in Blockchain Development and Artificial Intelligence
 - 🌱 I’m aspiring to be a full stack blockchain developer
 - 💞️ I’m open to internship and collaboration on web development
 - 📫 I can be reached on twitter @michael_alkali
