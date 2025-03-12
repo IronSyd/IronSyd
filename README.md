@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Michael Alkali. I currently work as a Community Manager
-- 👀 I’m interested in Blockchain Development and Artificial Intelligence
-- 🌱 I’m aspiring to be a smart contract developer and security researcher
-- 💞️ I’m open to internship and collaboration
+- 👀 I’m interested in Software Development and Artificial Intelligence
+- 💞️ I’m open to internship, work and collaboration
 - 📫 I can be reached on twitter @michael_alkali
 
 <!---
